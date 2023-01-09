@@ -7,7 +7,7 @@ public class Saludo {
 		 comentario de varias
 		 lineas
 		 */
-		
+		//hola
 		System.out.println("Bienvenidos a Java");
 
 	}
